@@ -28,9 +28,37 @@ Smart Library Management System is a Java-based application designed to manage b
 
 ## Project Structure
 
-- Main.java - Main program and menu-driven interface
-- Additional Java classes can be added for library, book, user, database and exception handling modules.
+The project consists of the following Java classes:
 
+1. Book.java
+   - Manages book details and book-related operations.
+
+2. User.java
+   - Stores basic user information.
+
+3. Member.java
+   - Manages library member details.
+
+4. Librarian.java
+   - Manages librarian information and operations.
+
+5. Library.java
+   - Handles library operations such as adding, searching, issuing, and returning books.
+
+6. DatabaseManager.java
+   - Handles database-related operations.
+
+7. LibraryException.java
+   - Provides custom exception handling for library operations.
+
+8. Main.java
+   - Contains the main method and provides the menu-driven interface.
+
+9. README.md
+   - Contains project documentation and information.
+
+10. statement.md
+    - Contains the project statement and requirements
 ## How to Install and Run
 
 ### Requirements
@@ -63,7 +91,12 @@ The application can be tested by:
 
 ## Screenshots
 
-Screenshots of the running application can be added here.
+<img width="1221" height="646" alt="image" src="https://github.com/user-attachments/assets/d016212c-c17e-4abd-90a2-c0222270c6f2" />
+<img width="1230" height="626" alt="image" src="https://github.com/user-attachments/assets/ca1d9f13-5d65-433f-9084-bae91b6b9afa" />
+<img width="1210" height="605" alt="image" src="https://github.com/user-attachments/assets/573dfe31-5ae4-4fb8-8506-245cbe280a5c" />
+
+
+
 
 ## Version Control
 
